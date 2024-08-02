@@ -1,0 +1,37 @@
+
+[
+    {
+        "title": "Encrypted",
+        "descripcion": "Tus datos estas almacenados y seguros en una base de datos"
+
+    },
+
+    {
+        "title": "Open Source",
+        "descripcion": "Tu software esta seguro y es libre de poder recibir alteraciones"
+
+    },
+
+    {
+        "title": "Multiplataforma",
+        "descripcion": "Tu software esta seguro y es libre de poder recibir alteraciones"
+
+    },
+
+    {
+        "title": "Dispositivos Rapidos",
+        "descripcion": "Tu software esta seguro y es libre de poder recibir alteraciones"
+
+    },
+    {
+        "title": "Fast",
+        "descripcion": "Tu software esta seguro y es libre de poder recibir alteraciones"
+
+    },
+
+    {
+        "title": "Open librery",
+        "descripcion": "Tu software esta seguro y es libre de poder recibir alteraciones"
+
+    }
+]
