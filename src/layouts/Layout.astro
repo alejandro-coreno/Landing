@@ -1,5 +1,10 @@
 ---
+    interface Props {
+        title: string;
+    }
     import "../styles/layout.css"
+
+    const { title } = Astro.props
 ---
 
 <!DOCTYPE html>
@@ -7,10 +12,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Astro Landing</title>
+    <title>Astro Landing - { title }</title>
 </head>
 <body>
-    <main>
+    <main class="container mx-auto md:pt-10">
         <slot />
     </main>
 </body>
