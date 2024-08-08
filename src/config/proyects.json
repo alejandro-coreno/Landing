@@ -1,18 +1,21 @@
 {
     "proyects": [
         {
-            "title": "Farma 1",
-            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem dignissimos eligendi iure quis id qui sit asperiores animi quo eum similique numquam a distinctio nulla est nemo commodi, veritatis aspernatur!"
+            "title": "Project 1",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem dignissimos eligendi iure quis id qui sit asperiores animi quo eum similique numquam a distinctio nulla est nemo commodi, veritatis aspernatur!",
+            "image": "public/images/fingerprint.svg"
         },
 
         {
-            "title": "Farma 2",
-            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem dignissimos eligendi iure quis id qui sit asperiores animi quo eum similique numquam a distinctio nulla est nemo commodi, veritatis aspernatur!"
+            "title": "Project 2",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem dignissimos eligendi iure quis id qui sit asperiores animi quo eum similique numquam a distinctio nulla est nemo commodi, veritatis aspernatur!",
+            "image": "public/images/fingerprint.svg"
         },
 
         {
-            "title": "Farma 3",
-            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem dignissimos eligendi iure quis id qui sit asperiores animi quo eum similique numquam a distinctio nulla est nemo commodi, veritatis aspernatur!"
+            "title": "Project 3",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem dignissimos eligendi iure quis id qui sit asperiores animi quo eum similique numquam a distinctio nulla est nemo commodi, veritatis aspernatur!",
+            "image": "public/images/fingerprint.svg"
         }
     ]
 }
